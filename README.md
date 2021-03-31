@@ -6,10 +6,11 @@ The challenge was to find **association rules** between combinations of products
 ## The Results
 I myself joined the competition with 3 other people with links to their LinkedIn profiles written at the end of this Readme. 5 hours was given but we weren't able to construct an efficient enough code to process the program before the competition ended, so we didn't win at that time. In spite of the loss, weeks later I decided to pursue it myself and created a python notebook consisting of the required syntax to finally acquire an accuracy of 100% through the submission of Kaggle in approximately 35 minutes. The notebook consists of functions, multi-index dataframes, and lambda functions in loops in order to iterate through the whole dataset.
 
-The link to the kaggle competition may be seen below here:
-https://www.kaggle.com/c/market-basket-id-ndsc-2020
+The link to the kaggle competition may be seen by clicking [here][kaggle].
 
 **Team members:**<br/>
 Johannes Joseph Billie Christian (https://www.linkedin.com/in/johannesjbilliec/)<br/>
 I Made Atmavidya Virananda (https://www.linkedin.com/in/imavv/)<br/>
 William Wibowo Ciptono (https://www.linkedin.com/in/williamwibowo/)<br/>
+
+[kaggle]:https://www.kaggle.com/c/market-basket-id-ndsc-2020
