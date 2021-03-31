@@ -10,6 +10,6 @@ The link to the kaggle competition may be seen below here:
 https://www.kaggle.com/c/market-basket-id-ndsc-2020
 
 Team members:
-Johannes Joseph Billie Christian (https://www.linkedin.com/in/johannesjbilliec/)
-I Made Atmavidya Virananda (https://www.linkedin.com/in/imavv/)
-William Wibowo Ciptono (https://www.linkedin.com/in/williamwibowo/)
+Johannes Joseph Billie Christian (https://www.linkedin.com/in/johannesjbilliec/)<br/>
+I Made Atmavidya Virananda (https://www.linkedin.com/in/imavv/)<br/>
+William Wibowo Ciptono (https://www.linkedin.com/in/williamwibowo/)<br/>
