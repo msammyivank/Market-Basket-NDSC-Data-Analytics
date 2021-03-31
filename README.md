@@ -9,7 +9,7 @@ I myself joined the competition with 3 other people with links to their LinkedIn
 The link to the kaggle competition may be seen below here:
 https://www.kaggle.com/c/market-basket-id-ndsc-2020
 
-Team members:
+**Team members:**<br/>
 Johannes Joseph Billie Christian (https://www.linkedin.com/in/johannesjbilliec/)<br/>
 I Made Atmavidya Virananda (https://www.linkedin.com/in/imavv/)<br/>
 William Wibowo Ciptono (https://www.linkedin.com/in/williamwibowo/)<br/>
