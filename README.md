@@ -8,7 +8,7 @@ I myself joined the competition with 3 other people with links to their LinkedIn
 
 Link to the [Kaggle Competition].
 
-**Team members:**<br/>
+## Team members
 Johannes Joseph Billie Christian (https://www.linkedin.com/in/johannesjbilliec/)<br/>
 I Made Atmavidya Virananda (https://www.linkedin.com/in/imavv/)<br/>
 William Wibowo Ciptono (https://www.linkedin.com/in/williamwibowo/)<br/>
